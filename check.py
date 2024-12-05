@@ -3,13 +3,6 @@
 # @Time      :2024/12/6 3:21
 # Author: lbb
 
-
-# -*- coding:utf-8 -*-
-# @FileName  :exp.py
-# @Time      :2024/12/5 23:47
-# Author: lbb
-
-
 import json
 import random
 import sys
